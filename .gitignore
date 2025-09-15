@@ -1,0 +1,12 @@
+# Dependencias
+node_modules/
+
+# Builds
+dist/
+build/
+
+# Variables de entorno
+.env
+
+# Cobertura de tests
+coverage/
